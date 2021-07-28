@@ -2,7 +2,8 @@
 
 Source code and data files for theory components of the manuscript "Probing the interplay between lattice dynamics and short-range magnetic correlations in CuGeO3 with femtosecond RIXS."
 
-Reference: npj Quantum Materials, in press (2021). Preprint: arXiv:2104.03557.
+Reference: npj Quantum Materials 6, 51 (2021). doi:10.1038/s41535-021-00350-5.
+Preprint: arXiv:2104.03557.
 
 Title: Probing the interplay between lattice dynamics and short-range magnetic correlations in CuGeO3 with femtosecond RIXS
 
